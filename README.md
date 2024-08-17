@@ -8,9 +8,7 @@ Table of Contents
 - [Features](#features)
 - [Technologies](#technologies)
 - [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
+
 
 ## Introduction
 
@@ -104,10 +102,7 @@ Make your changes and commit them with clear, descriptive commit messages.
 Push your changes to your fork.
 Create a pull request to the main repository.
 
-Please refer to our Contributing Guidelines for more details.
-
 ## Team Members
 
-- [Asare Felix](https://github.com/flexywork327/)
-- [Foster Adu Gyamfi](https://github.com/Foxynero/)
-- [Esther Ademipe](https://github.com/legacycodine/)
+- [Morena Macheka](https://github.com/Rabianzo)
+- [Grace Tumbo](https://github.com/gracie-123)

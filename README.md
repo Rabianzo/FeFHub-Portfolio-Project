@@ -1,4 +1,4 @@
-# FeFHub - ALX Portfolio Project
+# FeFHub-Portfolio-Project
 
 FeFHub is a web application designed to help ALX students find job opportunities and assist companies in connecting with ALX students. This README provides an overview of the project and how to get it up and running.
 
@@ -75,7 +75,7 @@ To run this project locally, follow these steps:
 2. Navigate to the project directory.
 
    ```bash
-   cd FeFHub-alx-project
+   cd FeFHub-portfolio-project
    Install the necessary dependencies.
    ```
 
